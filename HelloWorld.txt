@@ -1,7 +1,15 @@
 class HelloWorld
 {
+
+     void myMethod()
+{
+     systm.out.println("helloWorld...added welcome to git");
+  
+}
+
+
      public static void  main(String args[])
    {
-      systm.out.println("helloWorld...added welcome to git");
+      
     }
     }
